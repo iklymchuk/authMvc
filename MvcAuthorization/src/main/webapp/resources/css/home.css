@@ -14,6 +14,10 @@ article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section
 	display: block;
 }
 
+.error{
+	color:red;'
+}
+
 blockquote,q {
 	quotes: none;
 }
@@ -477,6 +481,12 @@ body {
 	margin-left: 12px;
 	float: right;
 	padding: 7px 21px;
+}
+
+.checkAdmin {
+	padding: 11px 16px;
+	margin-left: 12px;
+	margin-top:10px;
 }
 
 .btnLogin:hover,.btnLogin:focus,.btnLogin:active {
